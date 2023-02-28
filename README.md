@@ -1,2 +1,2 @@
 # PortfolioProject
-My personal projects
+Data exploration and Cleaning Projects using SQL Server
