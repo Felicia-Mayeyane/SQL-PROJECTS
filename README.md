@@ -1,10 +1,6 @@
 # SQL Projects
 Data exploration and Cleaning Projects using SQL Server
 
-<h3>DATASET:</h3>
-<b>Data cleaning: movies</b>
-<b>EDA: Sales transaction</b>
-
 <h3>Project 1: Data Cleaning</h3>
 <ol>
 <li>Removing duplicates</li>
@@ -45,3 +41,9 @@ MYSQL
   ![Screenshot 2023-10-19 094015](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/1cf87bd1-fd32-4bf9-a63f-958a699c9217)
   
 </u>
+
+<h3>DATASET:</h3>
+<ol>
+<li><b>Data cleaning: movies</b></li>
+<li><b>EDA: Sales transaction</b></li>
+</ol>
