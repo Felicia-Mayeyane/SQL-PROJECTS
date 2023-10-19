@@ -10,6 +10,8 @@ Project 1: Data Cleaning
 *Cleaning white spaces
 *Working with missing values (giving them a value of 0/removing null values)
 
+![Screenshot 2023-10-19 091535](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/0cb275e4-7d25-46fa-9494-2bd6012689f8)
+
 DATASET:
 Data cleaning: movies
 EDA: Sales transaction
