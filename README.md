@@ -15,6 +15,7 @@ Data exploration and Cleaning Projects using SQL Server
 <li>Working with missing values (giving them a value of 0/removing null values)</li>
 </ol>
 
+
 <h4>TOOLS USED:</h4>
 MYSQL
 
@@ -28,6 +29,7 @@ MYSQL
   <li>Selecting columns I will be focusig on( ProductName, Price, Quantity, Country)</li>
   <li>Counting product names and using alias to create another column( AS tOTAL Products)</li>
   <li>Counting products that are specifically from the Uk</li>
+  
 
   ![Screenshot 2023-10-19 093648](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/74c64f92-bf78-43aa-ab0f-2c4e8cc3f513)
 
