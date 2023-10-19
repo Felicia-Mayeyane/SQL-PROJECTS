@@ -1,4 +1,4 @@
-# PortfolioProject
+# SQL Project
 Data exploration and Cleaning Projects using SQL Server
 
 <h3>DATASET:</h3>
