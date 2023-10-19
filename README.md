@@ -19,7 +19,7 @@ Data exploration and Cleaning Projects using SQL Server
 <h4>TOOLS USED:</h4>
 MYSQL
 
-<H4>PROJECT 1 DATA CLEANING OUTPUT:</H4>
+<H4>PROJECT 1 DATA CLEANING Code:</H4>
 
 ![Screenshot 2023-10-19 091535](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/ca5f93fe-5fba-40dd-85da-71f9b380374f)
 
