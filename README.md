@@ -1,4 +1,4 @@
-# SQL Project
+# SQL ProjectS
 Data exploration and Cleaning Projects using SQL Server
 
 <h3>DATASET:</h3>
