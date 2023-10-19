@@ -26,6 +26,10 @@ MYSQL
 <H3>Project 2: Data Exploration</H3>
 <u>
   <li>Familiarizing myself with the data</li>
+
+  ![Screenshot 2023-10-19 095837](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/fc794217-8ab6-49e2-9fb5-fa964112e816)
+
+  
   <li>Selecting columns I will be focusig on( ProductName, Price, Quantity, Country)</li>
   <li>Counting product names and using alias to create another column( AS tOTAL Products)</li>
   <li>Counting products that are specifically from the Uk</li>
