@@ -18,7 +18,7 @@ Data exploration and Cleaning Projects using SQL Server
 <h4>TOOLS USED:</h4>
 MYSQL
 
-<H4>PROJECT 1DATA CLEANING OUTPUT:</H4>
+<H4>PROJECT 1 DATA CLEANING OUTPUT:</H4>
 
 ![Screenshot 2023-10-19 091535](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/ca5f93fe-5fba-40dd-85da-71f9b380374f)
 
@@ -28,5 +28,11 @@ MYSQL
   <li>Selecting columns I will be focusig on( ProductName, Price, Quantity, Country)</li>
   <li>Counting product names and using alias to create another column( AS tOTAL Products)</li>
   <li>Counting products that are specifically from the Uk</li>
+
+  ![Screenshot 2023-10-19 093648](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/74c64f92-bf78-43aa-ab0f-2c4e8cc3f513)
+
+  <li>Using CASE based on quantity sold whether to restock or not</li>
+
+  
   
 </u>
