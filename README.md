@@ -33,6 +33,6 @@ MYSQL
 
   <li>Using CASE based on quantity sold whether to restock or not</li>
 
-  
+  ![Screenshot 2023-10-19 094015](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/1cf87bd1-fd32-4bf9-a63f-958a699c9217)
   
 </u>
