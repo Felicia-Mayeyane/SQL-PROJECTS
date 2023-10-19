@@ -22,7 +22,7 @@ MYSQL
 
 ![Screenshot 2023-10-19 091535](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/ca5f93fe-5fba-40dd-85da-71f9b380374f)
 
-<H3>Project 2: Data Exploratio</H3>
+<H3>Project 2: Data Exploration</H3>
 <u>
   <li>Familiarizing myself with the data</li>
   <li>Selecting columns I will be focusig on( ProductName, Price, Quantity, Country)</li>
