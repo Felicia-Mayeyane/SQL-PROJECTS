@@ -45,5 +45,5 @@ MYSQL
 <h3>DATASET:</h3>
 <ol>
 <li><a href="https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset"><b>Data cleaning: movies</b></a></li>
-<li><b>EDA: Sales transaction</b></li>
+<li><a href="https://www.kaggle.com/datasets/dinosilooy/sales-transaction-of-an-online-retailer"><b>EDA: Sales transaction</b></a></li>
 </ol>
