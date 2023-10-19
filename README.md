@@ -17,7 +17,11 @@ MYSQL
 
 <H4>PROJECT 1 DATA CLEANING Code:</H4>
 
-![Screenshot 2023-10-19 091535](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/ca5f93fe-5fba-40dd-85da-71f9b380374f)
+
+
+![Screenshot 2023-10-19 101234](https://github.com/DataFairy-FeliciaM/PortfolioProject/assets/119903285/d3c14994-57fd-4e5c-8ab0-dfe2a5d8d3dc)
+
+
 
 <H3>Project 2: Data Exploration</H3>
 <u>
